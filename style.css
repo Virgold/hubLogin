@@ -1,0 +1,30 @@
+.bg{
+    
+}
+
+.form-control{
+    background-color: white!important;
+    border: 1px solid #9FC131!important;
+    outline: none!important;
+    
+}
+.form-control:focus{
+    box-shadow: none!important;
+}
+button.form-control{
+    background-color: #9FC131!important;
+    border: none!important;
+}
+.loginbtn{
+    background-color: #9FC131!important;
+    border: none!important;
+}
+
+@media (max-width: 991px) {
+    .container{
+      width: 100% !important;
+    }
+  }
+
+
+  /* olive alternate color  */
